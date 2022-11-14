@@ -1,4 +1,4 @@
-# Khaled Or Alone ![](https://komarev.com/ghpvc/?username=AYMENJD&color=blueviolet)
+# Khaled Or Alone ♪ [](https://komarev.com/ghpvc/?username=AYMENJD&color=blueviolet)
 Hello world its me Khaled , And sometimes it's Alone (:
 ## About Me
 - I just start programmer 🧑🏻‍💻 in 2019, Maybe
@@ -14,14 +14,14 @@ Hello world its me Khaled , And sometimes it's Alone (:
 
   - [Whisper Bot](https://t.me/qpHBoT), Helps you to whisper something to a person in groups,
 
-  - [YouTube Bot](https://t.me/Mh5Bot), Bot to download songs from YouTube,
+  - [Communicate Bot](https://t.me/TTP1), Bot to communicate with unknown people for a certain period and without knowing your account,
 
 And there's more, [look here](http://t.me/NvvvC/185) !
 
 ### My goals
 - Nothing just high knowledge and making you smile.
 
-## Stats
+## My Stats In Github
 
 <div align='center'>
   <img src='https://github-readme-stats.vercel.app/api?username=balvx&show_icons=true&count_private=true&theme=radical&cache_seconds=86400' alt='Github stats' align='center' />
