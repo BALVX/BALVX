@@ -8,7 +8,10 @@ OwO hello! its me Khaled.
 ### What i do
 - Currenty i just develop Telegram bots, its FUN.
 - Some of my bots: 
-  - [Mira Music](https://t.me/NKQBoT), A popular [Saudi bot](https://t.me/NVVVc) to protect arabic groups. trusted by more than 10k+ groups.
+  - [Mira Music](https://t.me/NKQBoT), A bot released by [Source Mira](T.me/NvvvC) to play songs in groups and channels is available in +15k group
+
+  - [Mira Music 2](https://t.me/Kn0Bot), It's the second version of Mira's first, the same functions, but a little faster, which is present in the 6k group
+
   - [Whisper Bot](https://t.me/qpHBoT), Helps you to whisper something to a person in groups,
 
 ### My goals
