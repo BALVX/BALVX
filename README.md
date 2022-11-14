@@ -1,7 +1,7 @@
 # Khaled Or Alone ![](https://komarev.com/ghpvc/?username=AYMENJD&color=blueviolet)
-OwO hello! its me Khaled.
+Hello world its me Khaled , And sometimes it's Alone (:
 ## About Me
-- I just start coding in 2019, I love that.
+- I just start programmer 🧑🏻‍💻 in 2019, Maybe
 - I love the sound of smashing the keyborad just for "Hello world".
 - Also i love networking and cyberSecurity world.
 
@@ -13,6 +13,10 @@ OwO hello! its me Khaled.
   - [Mira Music 2](https://t.me/Kn0Bot), It's the second version of Mira's first, the same functions, but a little faster, which is present in the 6k group
 
   - [Whisper Bot](https://t.me/qpHBoT), Helps you to whisper something to a person in groups,
+
+  - [YouTube Bot](https://t.me/Mh5Bot), Bot to download songs from YouTube,
+
+And there's more, [look here](http://t.me/NvvvC/185) !
 
 ### My goals
 - Nothing just high knowledge and making you smile.
