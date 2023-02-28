@@ -1,7 +1,7 @@
-# Khaled Or Alone ♪ [](https://komarev.com/ghpvc/?username=BALVX&color=0e75b6)
+# Khaled Or Alone ♪ [Khaled Or Alone ♪](https://komarev.com/ghpvc/?username=BALVX&color=0e75b6)
 Hello world its me Khaled , And sometimes it's Alone (:
 
-- [Typing SVG](https://readme-typing-svg.herokuapp.com?color=white&size=26&center=true&vCenter=true&width=413&height=150&lines=Welcome+To+My+Profile+.;I+am+a+Programmer+And+Coder+.;For+Telegram+Bots+.;Good+Luck+👋)
+- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=white&size=26&center=true&vCenter=true&width=413&height=150&lines=Welcome+To+My+Profile+.;I+am+a+Programmer+And+Coder+.;For+Telegram+Bots+.;Good+Luck+👋)
 
 ## About Me
 - I start programmer 🧑🏻‍💻 in 2019, Maybe
