@@ -1,8 +1,7 @@
 # Khaled Or Alone ♪ [](https://komarev.com/ghpvc/?username=AYMENJD&color=blueviolet)
 Hello world its me Khaled , And sometimes it's Alone (:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=white&size=26&center=true&vCenter=true&width=413&height=150&lines=Welcome+To+My+Profile+.;I+am+a+Programmer+And+Coder+For;Telegram+Bots;Good+Luck+👋)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itzharshit&label=Profile%20views&color=0e75b6&style=flat" alt="itzharshit" /> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=white&size=26&center=true&vCenter=true&width=413&height=150&lines=Welcome+To+My+Profile+.;I+am+a+Programmer+And+Coder+.;For+Telegram+Bots+.;Good+Luck+👋)
 
 ## About Me
 - I start programmer 🧑🏻‍💻 in 2019, Maybe
@@ -26,6 +25,9 @@ And there's more, [look here](http://t.me/NvvvC/185) !
 - Nothing just high knowledge and making you smile.
 
 ## My Stats In Github
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzharshit&show_icons=true&locale=en&layout=compact" alt="BALVX" /></p>
+
 
 <div align='center'>
   <img src='https://github-readme-stats.vercel.app/api?username=balvx&show_icons=true&count_private=true&theme=radical&cache_seconds=86400' alt='Github stats' align='center' />
