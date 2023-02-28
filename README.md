@@ -6,8 +6,8 @@ Hello world its me Khaled , And sometimes it's Alone (:
 - [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=white&size=26&center=true&vCenter=true&width=413&height=150&lines=Welcome+To+My+Profile+.;I+am+a+Programmer+And+Coder+.;For+Telegram+Bots+.;Good+Luck+👋)
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hi+!+I'm+Khaled+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Programmer+And+Coder+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;For+Telegram+Bots+%F0%9F%87%AE%F0%9F%87%B3;Follow+Me+On+Telegram+!!
-+%F0%9F%93%88;Good+Bay+%F0%9F%91%8B%F0%9F%8F%BB" alt="Anurag" width="650" height="55">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hi+!+I'm+Khaled+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Programmer+And+Coder+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;For+Telegram+Bots+%F0%9F%87%AE%F0%9F%87%B3;Follow+Me+On+Telegram+!!
++%F0%9F%93%88;Good+Bay+%F0%9F%91%8B%F0%9F%8F%BB" alt="Anurag" width="650" height="55")
 
 
 ## About Me
