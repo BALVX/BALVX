@@ -1,5 +1,9 @@
 # Khaled Or Alone ♪ [](https://komarev.com/ghpvc/?username=AYMENJD&color=blueviolet)
 Hello world its me Khaled , And sometimes it's Alone (:
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=red&size=26&center=true&vCenter=true&width=413&height=150&lines=Welcome+To+My+Profile;I+am+a+Developer;For+Telegram+Bots;So+bay+kanger+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=red&size=26&center=true&vCenter=true&width=413&height=150&lines=Harshit+Shrivastav;Android+App+Developer;Telegram+Bot+Developer;Good+Luck+👋)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itzharshit&label=Profile%20views&color=0e75b6&style=flat" alt="itzharshit" /> </p>
+
 ## About Me
 - I just start programmer 🧑🏻‍💻 in 2019, Maybe
 - I love the sound of smashing the keyborad just for "Hello world".
